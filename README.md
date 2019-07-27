@@ -1,6 +1,7 @@
 # ANDROID RESOUCES
 #### Documentation
  This guide intended to be better understanding to read offical documentation [Developer Guide](https://developer.android.com/)
+## :+1: Topics And Resource links :shipit:
 * Intro to Activity [Doc guide](https://developer.android.com/guide/components/activities/intro-activities) / [Doc Ref](https://developer.android.com/reference/android/app/Activity)
   - [Activity Life Cycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
     - [Tutorial Point](https://www.tutorialspoint.com/android/android_acitivities)
