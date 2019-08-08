@@ -6,8 +6,11 @@
 
 Follow လုပ္ထားရန္ 
 
-> [Medium](https://medium.com/androiddevelopers)
-
+Medium
+- [Android Developers](https://medium.com/androiddevelopers)
+- [Google Devlopers](https://medium.com/google-developers)
+- [AndroidPub](https://android.jlelse.eu/)
+- [ProAndroidDev](https://proandroiddev.com/)
 
 အစဥ္လိုက္ဖတ္ရန္ - 
 
