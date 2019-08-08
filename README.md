@@ -1,9 +1,15 @@
 
-## :+1: Topics And Resource links :shipit:
+## :+1: Android Resource links 
 
 
 -----------------------------------------
 
-#### Medium
+Follow လုပ္ထားရန္ 
 
- [Android Life Cycle](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab) -> ReadMore Part - 1, 2, 3, 4 
+> [Medium](https://medium.com/androiddevelopers)
+
+
+အစဥ္လိုက္ဖတ္ရန္ - 
+
+Day 1
+ - [Android Life Cycle](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab) Go on Part - 1, 2, 3, 4 
